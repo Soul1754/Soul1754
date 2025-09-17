@@ -49,8 +49,8 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddhantgaikwad&show_icons=true&theme=tokyonight)](https://github.com/Soul1754)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siddhantgaikwad&theme=tokyonight)](https://github.com/Soul1754)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soul1754&show_icons=true&theme=tokyonight)](https://github.com/Soul1754)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soul1754&theme=tokyonight)](https://github.com/Soul1754)
 
 ---
 
@@ -63,4 +63,3 @@ I'm always open to collaborating on meaningful tech projects, research, and open
 - [Location](https://maps.google.com/?q=Pune)
 
 ⭐ If you like my work, star my repositories — it helps a lot! ⭐
-`
