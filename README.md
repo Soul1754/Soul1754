@@ -49,9 +49,17 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soul1754&show_icons=true&theme=tokyonight)](https://github.com/Soul1754)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soul1754&theme=tokyonight)](https://github.com/Soul1754)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soul1754&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul1754&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul1754&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ## 🤝 Let's Connect!
