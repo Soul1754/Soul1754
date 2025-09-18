@@ -50,15 +50,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soul1754&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soul1754&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&count_private=true&token=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" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul1754&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soul1754&theme=tokyonight&hide_border=true&count_private=true&token=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"" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul1754&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soul1754&layout=compact&theme=tokyonight&hide_border=true&count_private=true&token=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"" alt="Top Languages" />
 </div>
 ---
 
