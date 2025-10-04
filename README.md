@@ -1,5 +1,7 @@
+<div align="center">
+  
 # Siddhant Gaikwad! 😄
----
+</div>
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-gaikwad1754/)
@@ -7,7 +9,9 @@
 [![Location](https://img.shields.io/badge/Location-Pune,_India-orange?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Pune)
 
 </div>
+
 ---
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer+%2F+GEN+AI;Tech+Learner" alt="Typing SVG" />
 </div>
